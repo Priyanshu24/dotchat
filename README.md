@@ -6,7 +6,7 @@ This is a simple boilerplate to start your new django project on the go without 
 
 ## Why should you consider using this ?
 
-Everytime we start some new django project we are compelled to setup custom user authentication which may eat up at anywhere between 20-40 minutes depending on our know-how of django. Also, it is highly advisable to use custom user models whenever we start a new django project. While, it is okay to use the default user model when we are building some small project which we do not intend to scale up, it is a horrendous mistake not to setup custom user model if you intend to scale your project up because the default user model CAN and WILL hamper you from implementing any user related changes which is obiously not the ideal situation.
+Everytime we start some new django project we are compelled to setup custom user authentication which may eat up at anywhere between 20-40 minutes depending on our know-how of django. Also, it is highly advisable to use custom user models whenever we start a new django project. While, it is okay to use the default user model when we are building some small project which we do not intend to scale up, it is a horrendous mistake not to setup custom user model if you intend to scale your project up because the default user model CAN and WILL hamper you from implementing any user related changes which is obviously not the ideal situation.
 
 ## Who should use it ?
 
