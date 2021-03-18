@@ -1,5 +1,11 @@
 # Django Starter Boilerplate
 
+![python](https://img.shields.io/pypi/pyversions/Django?style=for-the-badge)
+![django](https://img.shields.io/pypi/v/django?label=Django&logo=Django&style=for-the-badge)
+![forks](https://img.shields.io/github/forks/Priyanshu24/django-starter-boilerplate?style=for-the-badge)
+![issues](https://img.shields.io/github/issues/Priyanshu24/django-starter-boilerplate?style=for-the-badge)
+![license](https://img.shields.io/github/license/Priyanshu24/django-starter-boilerplate?style=for-the-badge)
+
 ## What is this ?
 
 This is a simple boilerplate to start your new django project on the go without putting too much time into setting up custom user models( very important ).
