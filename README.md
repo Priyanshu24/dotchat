@@ -18,7 +18,15 @@ Developers who have some decent understanding of django can use it. Beginners ca
 
 - Install virtualenv ( link : https://virtualenv.pypa.io/en/latest/installation.html )
 
-- Create a virtual environment in the directory in which you want to clone this repository
+- Clone this repository. Replace YOUR PROJECT NAME with the name you want
+
+```bash
+mkdir YOUR PROJECT NAME
+cd YOUR PROJECT NAME
+git clone https://github.com/Priyanshu24/django-starter-boilerplate.git .
+```
+
+- Create a virtual environment in the directory in which you have cloned this repository
 
 ```bash
 virtualenv -p python3 env
@@ -28,12 +36,6 @@ virtualenv -p python3 env
 
 ```bash
 source env/bin/activate
-```
-
-- Clone this repository
-
-```bash
-git clone https://github.com/Priyanshu24/django-starter-boilerplate.git
 ```
 
 - Install dependencies
