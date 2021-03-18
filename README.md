@@ -26,7 +26,7 @@ cd YOUR PROJECT NAME
 git clone https://github.com/Priyanshu24/django-starter-boilerplate.git .
 ```
 
-- Create a virtual environment in the directory in which you have cloned this repository
+- Create a virtual environment in the directory in which you have cloned the repository
 
 ```bash
 virtualenv -p python3 env
