@@ -43,8 +43,12 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
-    #Custom Apps
+    # Third Party Apps
+    'channels',
+
+    # Custom Apps
     'accounts',
+    'chat'
 ]
 
 MIDDLEWARE = [

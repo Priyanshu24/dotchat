@@ -27,5 +27,5 @@ urlpatterns += staticfiles_urlpatterns()
 urlpatterns += static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)
 
 # Replace YOUR SITE with the name you want.
-admin.site.site_header = 'YOUR SITE Administration'
-admin.site.site_title = 'YOUR SITE Administration'
+admin.site.site_header = 'DotChat Administration'
+admin.site.site_title = 'DotChat Administration'
